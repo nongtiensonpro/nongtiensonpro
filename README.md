@@ -1,4 +1,4 @@
-# Xin chào! Tôi là [Tên của bạn] 👋
+# Xin chào! Tôi là Nông Tiến Sơn 👋
 
 Chào mừng đến với trang cá nhân GitHub của tôi!  
 
